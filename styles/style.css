@@ -909,6 +909,7 @@ a {
     }
 
     .gallery-left-box {
+        display: block;
         margin-bottom: 30px;
     }
 
